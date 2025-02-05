@@ -1,5 +1,7 @@
 # Rspack project
 
+Minimal Rspack + React + TypeScript + Tailwind CSS v4 template for fast, modern web apps. 🚀
+
 ## Setup
 
 Install the dependencies:
@@ -21,4 +23,3 @@ Build the app for production:
 ```bash
 npm run build
 ```
-@ jigjoy-template
